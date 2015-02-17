@@ -31,6 +31,18 @@
 * `P` before pointer
 * `p` after pointer
 
+## Delete
+### Delete word under cursor
+* `daw`: delete around word 
+* `caw`: delete around word, enter edit mode
+* `diw`: delete in word
+
+### Delete rest of line
+`d$` or `D`
+
+### Delete everything on the line to the cursor
+`d0`
+
 ## Insert line
 This only works in 'normal mode' and then enters the 'edit mode'.
 
