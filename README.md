@@ -4,7 +4,14 @@
 ### Start of line
 `0`
 
+### End of line
+`$`
+
+### Start of word
+`B` or `b`
+
 ### End of word
+
 `E` or `e`
 
 ## Cut & Copy
@@ -24,3 +31,11 @@
 * `P` before pointer
 * `p` after pointer
 
+## Insert line
+This only works in 'normal mode' and then enters the 'edit mode'.
+
+### Before cursor
+`O`
+
+### After cursor
+`o`
