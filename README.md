@@ -56,3 +56,4 @@ This only works in 'normal mode' and then enters the 'edit mode'.
 ## Indentation
 * `>>`: indent one block to the right
 * `<<`: indent one block to the left
+* `4>>`: indent four lines one block to the right
