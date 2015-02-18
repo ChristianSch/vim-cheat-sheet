@@ -33,6 +33,7 @@
 
 ## Delete
 ### Delete word under cursor
+* `dw`: delete word
 * `daw`: delete around word 
 * `caw`: delete around word, enter edit mode
 * `diw`: delete in word
@@ -51,3 +52,7 @@ This only works in 'normal mode' and then enters the 'edit mode'.
 
 ### After cursor
 `o`
+
+## Indentation
+* `>>`: indent one block to the right
+* `<<`: indent one block to the left
