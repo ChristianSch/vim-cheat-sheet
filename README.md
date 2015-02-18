@@ -57,3 +57,7 @@ This only works in 'normal mode' and then enters the 'edit mode'.
 * `>>`: indent one block to the right
 * `<<`: indent one block to the left
 * `4>>`: indent four lines one block to the right
+
+## Split view
+* `:sp $file` to open a file in another split view
+* `ctrl + w w` to change split buffer
