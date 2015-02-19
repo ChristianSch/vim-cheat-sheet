@@ -11,7 +11,6 @@
 `B` or `b`
 
 ### End of word
-
 `E` or `e`
 
 ## Cut & Copy
