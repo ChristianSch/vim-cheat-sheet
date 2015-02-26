@@ -11,7 +11,13 @@
 `B` or `b`
 
 ### End of word
-`E` or `e`
+`E`or `e`
+
+### Start of file
+`gg`
+
+### End of file
+`G`
 
 ## Cut & Copy
 ### Start “visual mode”
@@ -33,7 +39,7 @@
 ## Delete
 ### Delete word under cursor
 * `dw`: delete word
-* `daw`: delete around word 
+* `daw`: delete around word
 * `caw`: delete around word, enter edit mode
 * `diw`: delete in word
 
