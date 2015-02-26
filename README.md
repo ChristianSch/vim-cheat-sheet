@@ -59,10 +59,13 @@ This only works in 'normal mode' and then enters the 'edit mode'.
 
 ## Split view
 * `:sp $file` to open a file in another split view
-* `ctrl + w w` to change split buffer
 * `ctrl + w s` to split the current buffer horizontally
 * `ctrl + w v` to split the current buffer vertically
+
+* `ctrl + w w` to change split buffer
 * `ctrl + w up` to select the buffer on top of the current one
 * `ctrl + w down` " beneath the current one
 * `ctrl + w left` " on the left of the current one
 * `ctrl + w right` " on the right of the current one
+
+* `ctrl + w q` close current split buffer
