@@ -1,4 +1,8 @@
 # Vim cheat sheet
+Note: you can combine almost everything with movements. Like combine `v` (visual) with `e`
+(end of word) to select the text from the current cursor position to the end of the word.
+
+Pro tip:  `ZZ` instead of `<esc> + :wq`.
 
 ## Go to
 ### Start of line
@@ -75,3 +79,9 @@ This only works in 'normal mode' and then enters the 'edit mode'.
 * `ctrl + w right` " on the right of the current one
 
 * `ctrl + w q` close current split buffer
+
+## Folding
+* `za` toggles current fold
+
+## Repeat
+* `.` repeats the last command (if applicable)
